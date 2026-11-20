@@ -1,6 +1,6 @@
 # Tác tử thông minh điều khiển đèn giao thông thích ứng tại TP.HCM
 
-So sánh điều khiển đèn **cố định** với **tác tử thích ứng theo mật độ xe** trên 3 kịch bản: `low`, `medium`, `high`.
+So sánh điều khiển đèn **cố định** với **tác tử thích ứng theo mật độ xe** trên `low`, `medium`, `high`.
 
 ## Cài đặt
 
